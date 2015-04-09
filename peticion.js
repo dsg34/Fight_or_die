@@ -22,7 +22,7 @@ function peticionGET(url){
 		alert("Objeto creado");
 	}
 	else{
-		alert("Error creando objeto");//Prueba repositorio
+		alert("Error creando objeto");//Prueba 
 	}
 }
 
